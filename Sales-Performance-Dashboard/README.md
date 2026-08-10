@@ -88,3 +88,26 @@ Sales-Performance-Dashboard/
 ├── Sales_Performance_Dashboard.pbix
 │
 └── README.md
+```
+---
+
+## 👤 Author
+
+**Murugavel Thenpair Gnanasekaran**
+
+Mechanical Engineer | Aspiring Data Scientist  
+Advanced Certification in Data Science & AI
+
+### Skills
+
+- SQL
+- Power BI
+- DAX
+- Python
+- Machine Learning
+- Data Analysis
+
+### Connect
+
+- [LinkedIn](https://www.linkedin.com/in/murugavel-thenpair-gnanasekaran)
+- [GitHub](https://github.com/murugavel-tg)
